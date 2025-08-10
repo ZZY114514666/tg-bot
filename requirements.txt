@@ -1,0 +1,4 @@
+python-telegram-bot==20.6
+Pillow==9.5.0
+aiosqlite==0.18.0
+python-dotenv==1.0.0
