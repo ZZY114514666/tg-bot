@@ -35,7 +35,7 @@ from telegram.ext import (
 )
 
 # ---------------- CONFIG ----------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN") or "PUT_YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = os.environ.get("8121700914:AAH7i8_ANOEhK_8VJxWz058sphlQEmNcyBo") or "PUT_YOUR_BOT_TOKEN_HERE"
 # Admin usernames (no @). Add multiples if needed.
 ADMIN_USERNAMES: List[str] = ["ap114514666"]
 
